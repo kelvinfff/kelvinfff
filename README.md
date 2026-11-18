@@ -15,9 +15,6 @@
 **[kelvinfernandes.me](https://github.com/kelvinfff/kelvinfff.github.io)**: my portfolio site. It's containerized (nginx in production) and a GitHub Actions workflow deploys it to GitHub Pages on every push to `main`.
 <br><sub>Astro · Docker · GitHub Actions · GitHub Pages</sub>
 
-**[api-produtos-cloudflare](https://github.com/kelvinfff/api-produtos-cloudflare)**: a product API that runs on Cloudflare Workers, backed by a D1 database provisioned with Terraform.
-<br><sub>Cloudflare Workers · D1 · Terraform · Vitest</sub>
-
 ## Tech Stack
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
